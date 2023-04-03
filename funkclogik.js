@@ -78,3 +78,11 @@ let kintamasis = skai;
 
 vidurkis(2);
 console.log(kintamasis);
+
+// ! boolen
+
+function lyginimas(a) {
+    return a == 7;
+}
+
+console.log(lyginimas(7));
